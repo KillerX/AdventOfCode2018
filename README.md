@@ -13,5 +13,5 @@ Part 1: ./part1  0.00s user 0.00s system 95% cpu 0.005 total\
 Part 2: ./part2  0.01s user 0.00s system 97% cpu 0.009 total
 
 ### Day 3
-Part 1: ./part1  0.61s user 0.04s system 99% cpu 0.653 total
+Part 1: ./part1  0.61s user 0.04s system 99% cpu 0.653 total\
 Part 2: ./part2  0.62s user 0.03s system 99% cpu 0.657 total
